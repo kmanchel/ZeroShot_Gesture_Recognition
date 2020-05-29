@@ -1,0 +1,10 @@
+{
+    "image_height": 240,
+    "image_width": 320,
+    "max_frames": 25,
+    "image_resize": 240,
+    
+    "csv_path": "/home/jupyter/CV_Project/ie590_project/jupyter_notebook_nonGIT/data_descriptors_mode.csv",
+    "dataset_path": "/home/jupyter/CV_Project/ie590_project/data/IsoGD_phase_1/",
+    "features_path": "/home/jupyter/CV_Project/ie590_project/data/feature_maps/"
+}

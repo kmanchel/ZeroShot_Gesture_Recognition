@@ -1,0 +1,20 @@
+{
+    "learning_rate_fc": 1e-4,
+    "learning_rate_lstm": 1e-4,
+    "batch_size": 200,
+    "num_epochs": 100,
+    "reg_scale": 0.0001,
+    "num_ch": 6,
+    "image_height": 240, 
+    "image_width": 320,
+    "max_frames": 25,
+    "image_resize": 240,
+    "num_parallel_calls": 4,
+    "save_summary_steps": 1,
+    "train_path": "train.csv",
+    "validation_path": "validation.csv",
+    "prediction_path": "test.csv",
+    "dataset_path": "/scratch/gilbreth/choi502/ie590/IsoGD_phase_1/",
+    "descriptors": "Both_Hands",
+    "descriptor_type": "mode"
+}

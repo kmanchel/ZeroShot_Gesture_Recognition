@@ -1,0 +1,21 @@
+{
+    "learning_rate": 1e-5,
+    "batch_size": 10,
+    "num_epochs": 10,
+    "reg_scale":1e-4,
+
+    "num_ch": 6,
+    "image_height": 240,
+    "image_width": 320,
+    "max_frames": 25,
+    "image_resize": 160,
+
+    "num_parallel_calls": 4,
+    "save_summary_steps": 1,
+    
+    "csv_path": "train.csv",
+    "dataset_path": "/home/jupyter/CV_Project/ie590_project/data/IsoGD_phase_1/",
+    
+    "descriptors": "Both_Hands",
+    "descriptor_type": "mode"
+}

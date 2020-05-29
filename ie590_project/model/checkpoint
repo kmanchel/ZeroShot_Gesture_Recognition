@@ -1,0 +1,2 @@
+model_checkpoint_path: "m_iterative_model_lstm"
+all_model_checkpoint_paths: "m_iterative_model_lstm"
