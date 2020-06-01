@@ -1,6 +1,8 @@
 # Zero Shot Gesture Recognition (IE 590) Project
 
-Please refer to [ZeroShot_Gesture_Recognition_Report](https://github.com/kmanchel/ZeroShot_Gesture_Recognition/blob/master/Report_Zero_Shot.pdf)
+Please refer to [ZeroShot_Gesture_Recognition_Report](https://github.com/kmanchel/ZeroShot_Gesture_Recognition/blob/master/Report_Zero_Shot.pdf) for a detailed walk through of this project.
+
+Please also note that the video dataset used for this project is available by contacting professor [Jun Wan](http://www.cbsr.ia.ac.cn/users/jwan/database/isogd.html). The associated annotations for this dataset are found [here](https://github.com/kmanchel/ZeroShot_Gesture_Recognition/blob/master/annotation_videos.csv)
 
 Tensorflow version: v2.0.0
 
